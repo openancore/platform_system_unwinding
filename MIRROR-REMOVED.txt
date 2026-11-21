@@ -1,0 +1,12 @@
+Blobs of 100 MiB or larger were removed from this history so GitHub
+can store android-15.0.0_r36. They are test data, sample media,
+generated dumps, wrapper archives, or pngs, not the project source.
+The release commit id differs from AOSP where history was rewritten.
+
+Project: platform/system/unwinding
+
+Removed from the release tree:
+- none
+
+Removed from older history only. Not present on android-15.0.0_r36:
+- libunwindstack/tests/files/offline/jit_debug_x86_32/libartd.so (219.1 MiB)
